@@ -14,7 +14,7 @@
 
 ## Get Involved
 
-Interested in joining us on our mission? We're always looking for passionate individuals to join our team. Whether you're a seasoned developer, a Kademlia specialist, or just someone who's interested in the future of the internet, we'd love to have your help on our tasks. Feel free to assign any ticket labelled with `first-task` [here](https://github.com/orgs/apatheia-org/projects/2), and then, start its development. If any clarification input is necessary please tag [@adrianobrito](https://github.com/adrianobrito) a github issue's comment.
+Interested in joining us on our mission? We're always looking for passionate individuals to join our team. Whether you're a seasoned developer, a Kademlia specialist, or just someone who's interested in the future of the internet, we'd love to have your help on our tasks. Feel free to assign any ticket labelled with `good first issue` [here](https://github.com/orgs/apatheia-org/projects/2/views/2), and then, start its development. If any clarification input is necessary please tag [@adrianobrito](https://github.com/adrianobrito) a github issue's comment.
 
 ---
 
